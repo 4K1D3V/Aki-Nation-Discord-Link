@@ -1,4 +1,4 @@
-https://github.com/4K1D3V/Aki-Nation-Discord-Link.git## Description
+## Description
 
 Moderate and connect your Minecraft server with Discord! This bot allows you to view minecraft stats, advancements, and
 even inventories of any member in Discord. Also supports a powerful two-way chat with Minecraft, command execution and
