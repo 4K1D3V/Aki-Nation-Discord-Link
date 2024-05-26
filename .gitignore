@@ -1,0 +1,8 @@
+/serverdata
+/userdata
+/node_modules
+/.idea/
+.env
+/mongodb
+/microsoft-cache
+/private
